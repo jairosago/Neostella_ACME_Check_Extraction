@@ -1,0 +1,6 @@
+{
+  "Name": "Neostella_ACME_Check_Extraction",
+  "ProjectType": "Process",
+  "Description": "UiPath automation to extract check data from ACME Work Items and generate a consolidated Excel report.",
+  "MainFile": "Main.xaml"
+}
